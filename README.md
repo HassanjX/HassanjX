@@ -60,7 +60,7 @@
 
 **3D, Game Dev & Design:**
 <p align="left">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/institute/logos/blender-logo-socket.svg" alt="blender" width="36" height="36"/> </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://www.blender.org/wp-content/uploads/2020/07/blender_logo.png" alt="blender" width="36" height="36"/> </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="36" height="36"/> </a>
   <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/autodesk-fusion-360.png" alt="fusion360" width="36" height="36"/> </a> <!-- Consider finding a better/SVG icon -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="36" height="36"/> </a>
